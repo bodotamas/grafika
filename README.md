@@ -1,2 +1,2 @@
-# grafika
+# Számítógépi Grafika
 Számítógépi Grafika
