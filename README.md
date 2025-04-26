@@ -92,8 +92,12 @@ Ez a projekt egy egyszerű **Naprendszer szimuláció**, amelyben bolygók mozog
 
 - Visual Studio Code (C programozás) [VSCode](https://code.visualstudio.com)
 - [Letöltési link a szükséges könyvtárakhoz (c_sdk_220203)](https://web.uni-miskolc.hu/~matip/grafika/pages/development.html)
-- A projekthez szükséges volt még letölteni a freeglutot illetve futtatni bashből, hogy létrejöjjön a .dll fájl.
+- A projekthez szükséges volt még letölteni a freeglutot illetve futtatni bashből, hogy létrejöjjön a .dll fájl, illetve másolni a hozzá tartozó könyvátrakat (lib).
 [freeglut](https://www.transmissionzero.co.uk/software/freeglut-devel/)
+- A Simple OpenGL Image Library (SOIL) telepítésére is szükség volt (SOIL.dll)
+[SOIL](https://github.com/littlstar/soil)
+- A GLUT-ot is (glut32.dll) szükséges volt implementálni.
+[GLUT32](https://github.com/kripken/bullet/blob/master/Glut/glut32.lib)
 
 ---
 
