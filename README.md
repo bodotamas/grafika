@@ -10,7 +10,7 @@ Ez a projekt egy egyszerű **Naprendszer szimuláció**, amelyben bolygók mozog
 
 ## 📁 Projekt Felépítés
 
-📁 csdk
+📁 c_sdk_220203
 
     📁 examples
         └── ...
