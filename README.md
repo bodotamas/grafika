@@ -55,7 +55,7 @@ Ez a projekt egy egyszerű **Naprendszer szimuláció**, amelyben bolygók mozog
 
 ## 🕹️ Irányítások
 
-<img src="./bead/csdk/beadando/assets/textures/help.png" alt="Controls" width="700"/>
+<img src="./beadando/assets/textures/help.png" alt="Controls" width="700"/>
 
 - **W-A-S-D**: Mozgás előre, balra, hátra, jobbra.
 - **Space / C**: Fel és le mozgás.
