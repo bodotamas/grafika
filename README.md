@@ -90,10 +90,10 @@ Ez a projekt egy egyszerű **Naprendszer szimuláció**, amelyben bolygók mozog
 
 ## 🛠️ Fejlesztőkörnyezet & használt könyvtárak
 
-- Visual Studio Code (C programozás) [:](https://code.visualstudio.com)
-- [Letöltési link a szükséges könyvtárakhoz:](https://web.uni-miskolc.hu/~matip/grafika/pages/development.html)
+- Visual Studio Code (C programozás) [VSCode](https://code.visualstudio.com)
+- [Letöltési link a szükséges könyvtárakhoz (c_sdk_220203)](https://web.uni-miskolc.hu/~matip/grafika/pages/development.html)
 - A projekthez szükséges volt még letölteni a freeglutot illetve futtatni bashből, hogy létrejöjjön a .dll fájl.
-[freeglut:](https://www.transmissionzero.co.uk/software/freeglut-devel/)
+[freeglut](https://www.transmissionzero.co.uk/software/freeglut-devel/)
 
 ---
 
