@@ -84,6 +84,30 @@ Ez a projekt egy egyszerű **Naprendszer szimuláció**, amelyben bolygók mozog
 - Dinamikus fényerő szabályozás.
 - Napkitörés effekt (részecskerendszer).
 - Űrköd (space nebula) generálás.
-- Textúrázott modellek (pl. Szaturnusz gyűrűje, Föld, Jupiter stb.).
+- Textúrázott modellek (Föld, Jupiter stb.).
+
+---
+
+## 🛠️ Fejlesztőkörnyezet & használt könyvtárak
+
+- Visual Studio Code (C programozás) [:](https://code.visualstudio.com)
+- [Letöltési link a szükséges könyvtárakhoz:](https://web.uni-miskolc.hu/~matip/grafika/pages/development.html)
+- A projekthez szükséges volt még letölteni a freeglutot illetve futtatni bashből, hogy létrejöjjön a .dll fájl.
+[freeglut:](https://www.transmissionzero.co.uk/software/freeglut-devel/)
+
+---
+
+## 📚 Források
+
+**Textúrák:**
+- [ambientCG (CC0 Textures)](https://ambientcg.com/)
+- [Textures.com](https://www.textures.com/)
+- [Poly Haven Textures](https://polyhaven.com/textures)
+
+**3D modellek:**
+- [Poly Haven Models](https://polyhaven.com/models)
+- [Sketchfab (Free Models)](https://sketchfab.com/search?features=downloadable&sort_by=-likeCount&type=models)
+- [Free3D](https://free3d.com/)
+- [CGTrader (Free Models)](https://www.cgtrader.com/free-3d-models)
 
 ---
