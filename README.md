@@ -55,8 +55,6 @@ Ez a projekt egy egyszerű **Naprendszer szimuláció**, amelyben bolygók mozog
 
 ## 🕹️ Irányítások
 
-<img src="./beadando/assets/textures/help.PNG" alt="Controls" width="700"/>
-
 - **W-A-S-D**: Mozgás előre, balra, hátra, jobbra.
 - **Space / C**: Fel és le mozgás.
 - **Egér**: Kamera forgatása (egérgomb nyomva tartásával).
@@ -66,6 +64,8 @@ Ez a projekt egy egyszerű **Naprendszer szimuláció**, amelyben bolygók mozog
 - **Q**: Föld forgásának elindítása/leállítása.
 - **X**: Napkitörés (solar flare) létrehozása.
 - **H**: Űrköd (space nebula) létrehozása.
+
+<img src="./beadando/assets/textures/help.PNG" alt="Controls" width="700"/>
 
 ---
 
