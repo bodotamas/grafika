@@ -67,6 +67,8 @@ Ez a projekt egy egyszerű **Naprendszer szimuláció**, amelyben bolygók mozog
 
 <img src="./beadando/assets/textures/help.PNG" alt="Controls" width="700"/>
 
+- **F1**: A használati útmutató megjelenítése a programban.
+
 ---
 
 
@@ -81,5 +83,3 @@ Ez a projekt egy egyszerű **Naprendszer szimuláció**, amelyben bolygók mozog
 - Textúrázott modellek (pl. Szaturnusz gyűrűje, Föld, Jupiter stb.).
 
 ---
-
-
