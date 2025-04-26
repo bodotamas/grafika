@@ -4,6 +4,10 @@ Ez a projekt egy egyszerű **Naprendszer szimuláció**, amelyben bolygók mozog
 
 ---
 
+<img src="./beadando/assets/textures/readmeseged.png" alt="Controls" width="700"/>
+
+---
+
 ## 📁 Projekt Felépítés
 
 📁 csdk
