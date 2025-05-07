@@ -54,6 +54,9 @@ Ez a projekt egy egyszerű **Naprendszer szimuláció**, amelyben bolygók mozog
         📄 SOIL.dll
         📄 Makefile
 
+
+**freeglut-3.6.0 mappa:** (ha újrafordításra van szükség) A **make** parancs használatához szükséges ennek a mappának a tartalma!
+
 ---
 
 
