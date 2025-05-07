@@ -1,0 +1,117 @@
+# 🌌 Outer Space - Naprendszer szimuláció
+
+Ez a projekt egy egyszerű **Naprendszer szimuláció**, amelyben bolygók mozognak a Nap körül, a kamera szabadon irányítható, és különböző látványos effektek is aktiválhatók.
+
+---
+
+<img src="./beadando/assets/textures/readmeseged.png" alt="Controls" width="700"/>
+
+---
+
+## 📁 Projekt Felépítés
+
+📁 c_sdk_220203
+
+    📁 examples
+        └── ...
+    📁 MinGW
+        └── ...
+    📁 Notepad++
+        └── ...
+    📄 shell.bat
+    📁 beadando
+        📁 assets
+            📁 models
+                📄 deathstar.obj
+                📄 falcon.obj
+                📄 geoid.obj
+                📄 jupiter.obj
+                📄 mars.obj
+                📄 mercury.obj
+                📄 saturn.obj
+            📁 textures
+                📄 deathstar.png
+                📄 earth.png
+                📄 falcon.png
+                📄 help.png
+                📄 jupiter.png
+                📄 mercury.png
+                📄 saturnbody.png
+                📄 sky.png
+                📄 sun.png
+        📁 include
+            📄 camera.h
+            📄 draw.h
+            📄 model.h
+        📁 src
+            📄 camera.c
+            📄 draw.c
+            📄 model.c
+            📄 main.c
+        📄 beadando.exe
+        📄 glut32.dll
+        📄 libfreeglut.dll
+        📄 SOIL.dll
+        📄 Makefile
+
+---
+
+
+## 🕹️ Irányítások
+
+- **W-A-S-D**: Mozgás előre, balra, hátra, jobbra.
+- **Space / C**: Fel és le mozgás.
+- **Egér**: Kamera forgatása (egérgomb nyomva tartásával).
+- **E**: Bolygók mozgásának elindítása/leállítása.
+- **F**: Millennium Falcon megjelenítése.
+- **- / +**: Környezeti fényerő csökkentése/növelése.
+- **Q**: Föld forgásának elindítása/leállítása.
+- **X**: Napkitörés (solar flare) létrehozása.
+- **H**: Űrköd (space nebula) létrehozása.
+
+<img src="./beadando/assets/textures/help.PNG" alt="Controls" width="700"/>
+
+- **F1**: A használati útmutató megjelenítése a programban.
+
+---
+
+
+## ✨ Főbb funkciók
+
+- Bolygók Kepler-törvények szerinti mozgása.
+- Kamera szabad mozgása billentyűzettel és egérrel.
+- Millennium Falcon különleges eseményként megjeleníthető.
+- Dinamikus fényerő szabályozás.
+- Napkitörés effekt (részecskerendszer).
+- Űrköd (space nebula) generálás.
+- Textúrázott modellek (Föld, Jupiter stb.).
+
+---
+
+## 🛠️ Fejlesztőkörnyezet & használt könyvtárak
+
+- Visual Studio Code (C programozás) [VSCode](https://code.visualstudio.com)
+- [Letöltési link a szükséges könyvtárakhoz (c_sdk_220203)](https://web.uni-miskolc.hu/~matip/grafika/pages/development.html)
+- A projekthez szükséges volt még letölteni a freeglutot illetve futtatni bashből, hogy létrejöjjön a .dll fájl, illetve másolni a hozzá tartozó könyvátrakat (lib).
+[freeglut](https://www.transmissionzero.co.uk/software/freeglut-devel/)
+- A Simple OpenGL Image Library (SOIL) telepítésére is szükség volt (SOIL.dll)
+[SOIL](https://github.com/littlstar/soil)
+- A GLUT-ot is (glut32.dll) szükséges volt implementálni.
+[GLUT32](https://github.com/kripken/bullet/blob/master/Glut/glut32.lib)
+
+---
+
+## 📚 Források
+
+**Textúrák:**
+- [ambientCG (CC0 Textures)](https://ambientcg.com/)
+- [Textures.com](https://www.textures.com/)
+- [Poly Haven Textures](https://polyhaven.com/textures)
+
+**3D modellek:**
+- [Poly Haven Models](https://polyhaven.com/models)
+- [Sketchfab (Free Models)](https://sketchfab.com/search?features=downloadable&sort_by=-likeCount&type=models)
+- [Free3D](https://free3d.com/)
+- [CGTrader (Free Models)](https://www.cgtrader.com/free-3d-models)
+
+---
