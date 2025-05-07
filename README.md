@@ -55,7 +55,7 @@ Ez a projekt egy egyszerű **Naprendszer szimuláció**, amelyben bolygók mozog
         📄 Makefile
 
 
-**freeglut-3.6.0 mappa:** (ha újrafordításra van szükség) A **make** parancs használatához szükséges ennek a mappának a tartalma!
+**freeglut-3.6.0 mappa:** (ha újrafordításra van szükség) A **make** parancs használatához szükséges ennek a mappának a tartalma! **A make file ezt a mappát is meghívja (desktop/freeglut-3.6.0) mert szükség van mappában lévő könyvtárakra.**
 
 ---
 
