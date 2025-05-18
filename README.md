@@ -58,6 +58,8 @@ Ez a projekt egy egyszerű **Naprendszer szimuláció**, amelyben bolygók mozog
 **freeglut-3.6.0 mappa:** (ha újrafordításra van szükség) A **make** parancs használatához szükséges ennek a mappának a tartalma! A make file ezt a mappát is meghívja **(desktop/freeglut-3.6.0)** mert szükség van mappában lévő könyvtárakra.
 
 ---
+
+
 ## 🌟 Látványos effektek a szimulációban
 
 **A projekt során az alábbi látványos grafikai elemek kerültek beépítésre:**
@@ -78,6 +80,9 @@ Ez a projekt egy egyszerű **Naprendszer szimuláció**, amelyben bolygók mozog
 
 - Egy interaktív elemként, gombnyomásra egy űrhajó animáltan beúszik a képernyőre, majd eltűnik.
 
+🔁 Bolygók keringésének indítása/leállítása
+
+- Interaktív vezérlés gombbal: a bolygók keringése a Nap körül elindítható vagy megállítható.
 
 
 ---
