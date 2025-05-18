@@ -66,13 +66,13 @@ Ez a projekt egy egyszerű **Naprendszer szimuláció**, amelyben bolygók mozog
 
 - Egy gombnyomásra leállítható a Föld tengely körüli forgása, demonstrálva a mozgások kontrollálhatóságát.
 
-☀️ Napkitörés (részecskerendszerrel)
+☀️ Napkitörés 
 
-- A Nap felszínéről időszakosan látványos részecske-effekt jelenik meg, imitálva a szoláris kitöréseket.
+- A Nap felszínéről gombnyomásra látványos részecske-effekt jelenik meg, imitálva a szoláris kitöréseket.
 
 🌫️ Űrköd effekt
 
-- A távoli térben halvány, áttetsző köd jelenik meg, ami mélységérzetet és realisztikusabb űrbéli látványt biztosít.
+- Gombnyomásra, áttetsző köd jelenik meg, ami mélységérzetet és realisztikusabb űrbéli látványt biztosít.
 
 🚀 Beúszó űrhajó animáció (gombnyomásra)
 
