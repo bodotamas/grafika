@@ -58,6 +58,29 @@ Ez a projekt egy egyszerű **Naprendszer szimuláció**, amelyben bolygók mozog
 **freeglut-3.6.0 mappa:** (ha újrafordításra van szükség) A **make** parancs használatához szükséges ennek a mappának a tartalma! A make file ezt a mappát is meghívja **(desktop/freeglut-3.6.0)** mert szükség van mappában lévő könyvtárakra.
 
 ---
+## 🌟 Látványos effektek a szimulációban
+
+**A projekt során az alábbi látványos grafikai elemek kerültek beépítésre:**
+
+🌍 Föld forgásának megállítása
+
+- Egy gombnyomásra leállítható a Föld tengely körüli forgása, demonstrálva a mozgások kontrollálhatóságát.
+
+☀️ Napkitörés (részecskerendszerrel)
+
+- A Nap felszínéről időszakosan látványos részecske-effekt jelenik meg, imitálva a szoláris kitöréseket.
+
+🌫️ Űrköd effekt
+
+- A távoli térben halvány, áttetsző köd jelenik meg, ami mélységérzetet és realisztikusabb űrbéli látványt biztosít.
+
+🚀 Beúszó űrhajó animáció (gombnyomásra)
+
+- Egy interaktív elemként, gombnyomásra egy űrhajó animáltan beúszik a képernyőre, majd eltűnik.
+
+
+
+---
 
 
 ## 🕹️ Irányítások
