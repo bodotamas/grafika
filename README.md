@@ -147,9 +147,11 @@ Ez a projekt egy egyszerű **Naprendszer szimuláció**, amelyben bolygók mozog
 - [CGTrader (Free Models)](https://www.cgtrader.com/free-3d-models)
 
 ---
+
 # Sillyworld - Faház szimuláció
 
 Ez a projekt **most készült el**, célom, hogy a tantárgyból **megszerezzem az aláírást**.
+
 ---
 ## 📌 Projektleírás
 
@@ -162,13 +164,17 @@ A szimuláció tartalmaz:
 - Egy **kandallót** a ház belsejében, amely **fahiány miatt nem működik**
 
 A jelenet célja egy nyugodt, mégis izgalmas, mozgó világ megjelenítése különféle elemekkel.
+
 ---
 
 ## 🎮 Irányítás
 
 A játékvezérlés egyszerű és intuitív. A **TAB** billentyű lenyomásával megjelenik egy **GUIDE menü**, amely részletesen ismerteti az alapvető irányítási lehetőségeket.
+
 ---
+
 <img src="./beadando/assets/textures/readmeseged.png" alt="Controls" width="700"/>
+
 ---
 
 ## 💡 További fejlesztési lehetőségek
