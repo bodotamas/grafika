@@ -173,7 +173,7 @@ A játékvezérlés egyszerű és intuitív. A **TAB** billentyű lenyomásával
 
 ---
 
-<img src="./beadando/assets/textures/readmeseged.png" alt="Controls" width="700"/>
+<img src="./beadando2/assets/textures/guide.png" alt="Controls" width="700"/>
 
 ---
 
