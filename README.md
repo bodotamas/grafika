@@ -155,7 +155,7 @@ Ez a projekt **most készült el**, célom, hogy a tantárgyból **megszerezzem 
 ---
 ## 📌 Projektleírás
 
-A beadandó feladatra egy egyedi szimulációs környezetet választottam:  
+A feladatra egy egyedi szimulációs környezetet választottam:  
 egy **faházat egy elhagyatott mezőn**, amelyet a felhasználó **kívülről körbejárhat**.
 
 A szimuláció tartalmaz:
