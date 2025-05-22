@@ -181,6 +181,6 @@ A játékvezérlés egyszerű és intuitív. A **TAB** billentyű lenyomásával
 
 - Interaktívabb környezet (pl. tüzet lehet rakni a kandallóban, ha fát találunk)
 - Dinamikus időjárás
-- Belépés a faház belsejébe
+- Faház továbbfejlesztése
 
 ---
