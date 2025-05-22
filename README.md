@@ -1,4 +1,4 @@
-# Outer Space - Naprendszer szimuláció & Sillyworld - Faház szimuláció
+# Outer Space - Naprendszer szimuláció & Chalet - Faház szimuláció
 ---
 # Outer Space - Naprendszer szimuláció
 Ez a projekt egy egyszerű **Naprendszer szimuláció**, amelyben bolygók mozognak a Nap körül, a kamera szabadon irányítható, és különböző látványos effektek is aktiválhatók.
