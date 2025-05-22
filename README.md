@@ -1,4 +1,6 @@
-# 🌌 Outer Space - Naprendszer szimuláció
+# Outer Space - Naprendszer szimuláció & Sillyworld - Faház szimuláció
+---
+# Outer Space - Naprendszer szimuláció
 
 Ez a projekt egy egyszerű **Naprendszer szimuláció**, amelyben bolygók mozognak a Nap körül, a kamera szabadon irányítható, és különböző látványos effektek is aktiválhatók.
 
@@ -144,5 +146,32 @@ Ez a projekt egy egyszerű **Naprendszer szimuláció**, amelyben bolygók mozog
 - [Sketchfab (Free Models)](https://sketchfab.com/search?features=downloadable&sort_by=-likeCount&type=models)
 - [Free3D](https://free3d.com/)
 - [CGTrader (Free Models)](https://www.cgtrader.com/free-3d-models)
+
+---
+# Sillyworld - Faház szimuláció
+
+Ez a projekt **most készült el**, célom, hogy a tantárgyból **megszerezzem az aláírást**.
+---
+## 📌 Projektleírás
+
+A beadandó feladatra egy egyedi szimulációs környezetet választottam:  
+egy **faházat egy elhagyatott mezőn**, amelyet a felhasználó **kívülről körbejárhat**.
+
+A szimuláció tartalmaz:
+- Egy **tavat** a ház mellett
+- Egy **Velociraptort** és egy **nyulat**, amelyek folyamatosan mozognak
+- Egy **kandallót** a ház belsejében, amely **fahiány miatt nem működik**
+
+A jelenet célja egy nyugodt, mégis izgalmas, mozgó világ megjelenítése különféle elemekkel.
+
+## 🎮 Irányítás
+
+A játékvezérlés egyszerű és intuitív. A **TAB** billentyű lenyomásával megjelenik egy **GUIDE menü**, amely részletesen ismerteti az alapvető irányítási lehetőségeket.
+
+## 💡 További fejlesztési lehetőségek
+
+- Interaktívabb környezet (pl. tüzet lehet rakni a kandallóban, ha fát találunk)
+- Dinamikus időjárás
+- Belépés a faház belsejébe
 
 ---
